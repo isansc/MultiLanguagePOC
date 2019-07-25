@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多い国語</string>
+
+    <string name="main_title">名前</string>
+    <string name="main_label">私の名前はジョンです</string>
+    <string name="main_message">文書</string>
+
+    <string name="internal1_title">何時？</string>
+    <string name="internal1_label">明日あなたを見ます</string>
+
+    <string name="internal2_title">国語</string>
+    <string name="internal2_label">日本語を話せます</string>
+
+    <string name="menu_lang_english">英語</string>
+    <string name="menu_lang_portuguese">ポルトガル語</string>
+    <string name="menu_lang_japanese">日本語</string>
+
+</resources>

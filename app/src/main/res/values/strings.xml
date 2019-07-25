@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Languages</string>
+
+    <string name="main_title">Name</string>
+    <string name="main_label">My name is John</string>
+    <string name="main_message">Document</string>
+
+    <string name="internal1_title">When?</string>
+    <string name="internal1_label">Tomorrow I will see you</string>
+
+    <string name="internal2_title">Language</string>
+    <string name="internal2_label">I can speak English</string>
+
+    <string name="menu_lang_english">English</string>
+    <string name="menu_lang_portuguese">Portuguese</string>
+    <string name="menu_lang_japanese">Japanese</string>
+
+</resources>
